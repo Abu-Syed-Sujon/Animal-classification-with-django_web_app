@@ -29,7 +29,11 @@ Data augmentation (if applicable)
 
 🛠️ Tech Stack
 Component  |	Technology
+
 Backend:	Django 4.x
+
 Frontend:	HTML, CSS, Bootstrap
+
 Model: Framework	TensorFlow/Keras
+
 Image Handling:	Pillow, OpenCV
