@@ -28,6 +28,7 @@ RGB normalization
 Data augmentation (if applicable)
 
 🛠️ Tech Stack
+
 Component  |	Technology
 
 Backend:	Django 4.x
